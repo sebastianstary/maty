@@ -8,7 +8,7 @@ blueprint_api = Blueprint('blueprint_api', __name__,
 
 url = "https://imdb-top-100-movies.p.rapidapi.com/"
 headers = {
-	"X-RapidAPI-Key": "175f69edb7msha8b20055da48483p153de0jsn847394f00398",
+	"X-RapidAPI-Key": "1f93b26d2bmsh150922e83cf0129p11c46djsn1f78557faf20",
 	"X-RapidAPI-Host": "imdb-top-100-movies.p.rapidapi.com"
 }
 #nacte vsechny filmy do metody jako retezec
